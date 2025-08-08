@@ -1,0 +1,9 @@
+[project]
+name = "noter"
+version = "0.0.1"
+description = "Terminal note-taking program."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "python-dotenv>=1.1.1",
+]
